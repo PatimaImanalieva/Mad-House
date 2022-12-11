@@ -1,0 +1,141 @@
+/* .main {
+  position: relative;
+  width: 1920px;
+  height: 6225px;
+  background-color: #104FFF;
+  background-repeat: no-repeat;
+} */
+body, html {
+  width: 1920px;
+  height: 6225px;
+  background-color: #104FFF;
+  display: block;
+  overflow: hidden;
+}
+.garland {
+  position: absolute;
+  display: block;
+  max-width: 24%;
+  height: 542px;
+  left: 1331px;
+  top: -182px;
+  animation: garland 5s linear 1;
+}
+
+.sock {
+  position: absolute;
+  width: 382px;
+  height: 393px;
+  left: 1404px;
+  top:  -600px;
+  animation: sock 8s linear 1;
+  animation-fill-mode: forwards;
+}
+
+.ball {
+  position: absolute;
+  width: 374px;
+  height: 379px;
+  left: -1673px;
+  top: -305px;
+}
+
+
+.orange {
+  position: absolute;
+  width: 199px;
+  height: 266px;
+  left: 784px;
+  top: -21px;
+}
+
+.house {
+  position: absolute;
+  width: 275px;
+  height: 295px;
+  left: 473px;
+  top: 103px;
+}
+
+.curl {
+  position: absolute;
+  width: 360px;
+  height: 396px;
+  left: 600px;
+  top: 1514px;
+}
+
+.mirror {
+  position: absolute;
+  width: 274px;
+  height: 307px;
+  left: 790px;
+  top: 301px;
+}
+
+.bell {
+  position: absolute;
+  width: 368px;
+  height: 353px;
+  left: 1064px;
+  top: 229px;
+}
+
+.star {
+  position: absolute;
+  width: 399px;
+  height: 428px;
+  left: 1196px;
+  top: 821px;
+}
+
+.candle {
+  position: absolute;
+  width: 384px;
+  height: 497px;
+  left: 1469px;
+  top: 1175px;
+}
+
+.orange_red {
+  position: absolute;
+  width: 239px;
+  height: 241px;
+  left: 1507px;
+  top: 1959px;
+}
+
+.house_down {
+  position: absolute;
+  width: 275px;
+  height: 295px;
+  left: 945px;
+  top: 1636px;
+}
+
+.tree {
+  position: absolute;
+  width: 435px;
+  height: 496px;
+  left: 14px;
+  top: 1464px;
+}
+
+.snowman {
+  position: absolute;
+  width: 923px;
+  height: 869px;
+  left: 255px;
+  top: -964px;
+  animation: snowman 8s linear forwards;
+
+}
+
+
+.little_sock {
+  position: absolute;
+  width: 303px;
+  height: 312px;
+  left: 111px;
+  top: 622px;
+}
