@@ -860,7 +860,7 @@ body {
   100% {left:943px; top:5963px;}
 }
 /* адаптивы начинаются здесь */
-@media (min-width: 1680px) and (max-width: 1920px) {
+@media (min-width: 1680px) and (max-width: 2560px) {
   .body {
     width: 100%;
   }
@@ -1866,7 +1866,8 @@ body {
   }
 }
 
-@media (min-width: 414px) and (max-width: 834px) {}
+@media (min-width: 414px) and (max-width: 834px) {
+
   .crazy {
     top: 1457px;
     left: 115px;
